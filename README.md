@@ -1,4 +1,4 @@
-### Project: TRUE WILDERNESS
+## Project: TRUE WILDERNESS using HTML/CSS/Bootstrap
 
 ## Description
 This project, TRUE WILDERNESS, is a comprehensive website designed to educate users about various wildlife species and environmental conservation. It includes sections on different types of animals (flying, land, and sea animals), plants, and trees. The site also features information on garbage awareness and offers an interactive experience for users to learn and contribute to environmental conservation efforts. The website utilizes HTML, CSS, and JavaScript to provide a modern and engaging interface.
